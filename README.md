@@ -52,4 +52,4 @@ Feel free to explore and enjoy the website!
 
 ---
 
-Replace "https://github.com/yourusername/responsive-website.git" with the actual URL of your GitHub repository.
+"(https://madgulas.github.io/reponsivewebsite1/)"
